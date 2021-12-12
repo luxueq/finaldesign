@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Kratos Project Template
 
 ## Install Kratos
@@ -49,3 +50,8 @@ docker build -t <your-docker-image-name> .
 docker run --rm -p 8000:8000 -p 9000:9000 -v </path/to/your/configs>:/data/conf <your-docker-image-name>
 ```
 
+=======
+## 项目简介
+1.
+# finaldesign
+>>>>>>> 99903468fb8287748186b3c17790b43586d1a9b2
